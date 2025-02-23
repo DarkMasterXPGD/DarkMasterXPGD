@@ -1,4 +1,6 @@
-## Hi there 👋
+## 亻尔女子
+大家好，我是我，一个抽象的学生，会写那么一丢丢的代码，包括MarkDown和MediaWiki(也太基本了)，还有Java也略微会一点(我没看余胜军的视频)，还会html，css和JavaScript
+
 
 <!--
 **DarkMasterXPGD/DarkMasterXPGD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
